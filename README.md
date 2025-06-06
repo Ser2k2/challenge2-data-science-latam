@@ -10,7 +10,7 @@ A través de este EDA, se busca generar insights relevantes y visualizaciones es
 
 - Telecom_X_Churn_Analysis.ipynb 
 - README.md  
-- Carpeta img
+- Carpeta img (Contiene imágenes de los gráficos del proyecto)
 
 <h2>Instrucciones para Ejecutar el Notebook en Google Colab</h2>
 
